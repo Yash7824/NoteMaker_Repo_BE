@@ -3,7 +3,7 @@ version: 0.2
 phases:
   install:
     runtime-versions:
-      dotnet: 7.0 # Change to your desired .NET Core version
+      dotnet: 6.0 # Change to your desired .NET Core version
 
   pre_build:
     commands:
