@@ -1,0 +1,88 @@
+C:\Users\yashr\Yash\Projects\Asp.NetCore\Notes\Notes.API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\yashr\Yash\Projects\Asp.NetCore\Notes\Notes.API\bin\Debug\net7.0\appsettings.json
+C:\Users\yashr\Yash\Projects\Asp.NetCore\Notes\Notes.API\bin\Debug\net7.0\Notes.API.exe
+C:\Users\yashr\Yash\Projects\Asp.NetCore\Notes\Notes.API\bin\Debug\net7.0\Notes.API.deps.json
+C:\Users\yashr\Yash\Projects\Asp.NetCore\Notes\Notes.API\bin\Debug\net7.0\Notes.API.runtimeconfig.json
+C:\Users\yashr\Yash\Projects\Asp.NetCore\Notes\Notes.API\bin\Debug\net7.0\Notes.API.dll
+C:\Users\yashr\Yash\Projects\Asp.NetCore\Notes\Notes.API\bin\Debug\net7.0\Notes.API.pdb
+C:\Users\yashr\Yash\Projects\Asp.NetCore\Notes\Notes.API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\yashr\Yash\Projects\Asp.NetCore\Notes\Notes.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\yashr\Yash\Projects\Asp.NetCore\Notes\Notes.API\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\yashr\Yash\Projects\Asp.NetCore\Notes\Notes.API\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\yashr\Yash\Projects\Asp.NetCore\Notes\Notes.API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\yashr\Yash\Projects\Asp.NetCore\Notes\Notes.API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\yashr\Yash\Projects\Asp.NetCore\Notes\Notes.API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\yashr\Yash\Projects\Asp.NetCore\Notes\Notes.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\yashr\Yash\Projects\Asp.NetCore\Notes\Notes.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\yashr\Yash\Projects\Asp.NetCore\Notes\Notes.API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\yashr\Yash\Projects\Asp.NetCore\Notes\Notes.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\yashr\Yash\Projects\Asp.NetCore\Notes\Notes.API\bin\Debug\net7.0\Npgsql.dll
+C:\Users\yashr\Yash\Projects\Asp.NetCore\Notes\Notes.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\yashr\Yash\Projects\Asp.NetCore\Notes\Notes.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\yashr\Yash\Projects\Asp.NetCore\Notes\Notes.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\yashr\Yash\Projects\Asp.NetCore\Notes\Notes.API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\yashr\Yash\Projects\Asp.NetCore\Notes\Notes.API\obj\Debug\net7.0\Notes.API.csproj.AssemblyReference.cache
+C:\Users\yashr\Yash\Projects\Asp.NetCore\Notes\Notes.API\obj\Debug\net7.0\Notes.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yashr\Yash\Projects\Asp.NetCore\Notes\Notes.API\obj\Debug\net7.0\Notes.API.AssemblyInfoInputs.cache
+C:\Users\yashr\Yash\Projects\Asp.NetCore\Notes\Notes.API\obj\Debug\net7.0\Notes.API.AssemblyInfo.cs
+C:\Users\yashr\Yash\Projects\Asp.NetCore\Notes\Notes.API\obj\Debug\net7.0\Notes.API.csproj.CoreCompileInputs.cache
+C:\Users\yashr\Yash\Projects\Asp.NetCore\Notes\Notes.API\obj\Debug\net7.0\Notes.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\yashr\Yash\Projects\Asp.NetCore\Notes\Notes.API\obj\Debug\net7.0\Notes.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yashr\Yash\Projects\Asp.NetCore\Notes\Notes.API\obj\Debug\net7.0\staticwebassets\msbuild.Notes.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\yashr\Yash\Projects\Asp.NetCore\Notes\Notes.API\obj\Debug\net7.0\staticwebassets\msbuild.build.Notes.API.props
+C:\Users\yashr\Yash\Projects\Asp.NetCore\Notes\Notes.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Notes.API.props
+C:\Users\yashr\Yash\Projects\Asp.NetCore\Notes\Notes.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Notes.API.props
+C:\Users\yashr\Yash\Projects\Asp.NetCore\Notes\Notes.API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\yashr\Yash\Projects\Asp.NetCore\Notes\Notes.API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\yashr\Yash\Projects\Asp.NetCore\Notes\Notes.API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\yashr\Yash\Projects\Asp.NetCore\Notes\Notes.API\obj\Debug\net7.0\scopedcss\bundle\Notes.API.styles.css
+C:\Users\yashr\Yash\Projects\Asp.NetCore\Notes\Notes.API\obj\Debug\net7.0\Notes.API.csproj.CopyComplete
+C:\Users\yashr\Yash\Projects\Asp.NetCore\Notes\Notes.API\obj\Debug\net7.0\Notes.API.dll
+C:\Users\yashr\Yash\Projects\Asp.NetCore\Notes\Notes.API\obj\Debug\net7.0\refint\Notes.API.dll
+C:\Users\yashr\Yash\Projects\Asp.NetCore\Notes\Notes.API\obj\Debug\net7.0\Notes.API.pdb
+C:\Users\yashr\Yash\Projects\Asp.NetCore\Notes\Notes.API\obj\Debug\net7.0\Notes.API.genruntimeconfig.cache
+C:\Users\yashr\Yash\Projects\Asp.NetCore\Notes\Notes.API\obj\Debug\net7.0\ref\Notes.API.dll
+C:\Users\yashr\Yash\Projects\.NET Core + Angular\NoteMaker\server\Notes.API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\yashr\Yash\Projects\.NET Core + Angular\NoteMaker\server\Notes.API\bin\Debug\net7.0\appsettings.json
+C:\Users\yashr\Yash\Projects\.NET Core + Angular\NoteMaker\server\Notes.API\bin\Debug\net7.0\Notes.API.exe
+C:\Users\yashr\Yash\Projects\.NET Core + Angular\NoteMaker\server\Notes.API\bin\Debug\net7.0\Notes.API.deps.json
+C:\Users\yashr\Yash\Projects\.NET Core + Angular\NoteMaker\server\Notes.API\bin\Debug\net7.0\Notes.API.runtimeconfig.json
+C:\Users\yashr\Yash\Projects\.NET Core + Angular\NoteMaker\server\Notes.API\bin\Debug\net7.0\Notes.API.dll
+C:\Users\yashr\Yash\Projects\.NET Core + Angular\NoteMaker\server\Notes.API\bin\Debug\net7.0\Notes.API.pdb
+C:\Users\yashr\Yash\Projects\.NET Core + Angular\NoteMaker\server\Notes.API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\yashr\Yash\Projects\.NET Core + Angular\NoteMaker\server\Notes.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\yashr\Yash\Projects\.NET Core + Angular\NoteMaker\server\Notes.API\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\yashr\Yash\Projects\.NET Core + Angular\NoteMaker\server\Notes.API\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\yashr\Yash\Projects\.NET Core + Angular\NoteMaker\server\Notes.API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\yashr\Yash\Projects\.NET Core + Angular\NoteMaker\server\Notes.API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\yashr\Yash\Projects\.NET Core + Angular\NoteMaker\server\Notes.API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\yashr\Yash\Projects\.NET Core + Angular\NoteMaker\server\Notes.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\yashr\Yash\Projects\.NET Core + Angular\NoteMaker\server\Notes.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\yashr\Yash\Projects\.NET Core + Angular\NoteMaker\server\Notes.API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\yashr\Yash\Projects\.NET Core + Angular\NoteMaker\server\Notes.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\yashr\Yash\Projects\.NET Core + Angular\NoteMaker\server\Notes.API\bin\Debug\net7.0\Npgsql.dll
+C:\Users\yashr\Yash\Projects\.NET Core + Angular\NoteMaker\server\Notes.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\yashr\Yash\Projects\.NET Core + Angular\NoteMaker\server\Notes.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\yashr\Yash\Projects\.NET Core + Angular\NoteMaker\server\Notes.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\yashr\Yash\Projects\.NET Core + Angular\NoteMaker\server\Notes.API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\yashr\Yash\Projects\.NET Core + Angular\NoteMaker\server\Notes.API\obj\Debug\net7.0\Notes.API.csproj.AssemblyReference.cache
+C:\Users\yashr\Yash\Projects\.NET Core + Angular\NoteMaker\server\Notes.API\obj\Debug\net7.0\Notes.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yashr\Yash\Projects\.NET Core + Angular\NoteMaker\server\Notes.API\obj\Debug\net7.0\Notes.API.AssemblyInfoInputs.cache
+C:\Users\yashr\Yash\Projects\.NET Core + Angular\NoteMaker\server\Notes.API\obj\Debug\net7.0\Notes.API.AssemblyInfo.cs
+C:\Users\yashr\Yash\Projects\.NET Core + Angular\NoteMaker\server\Notes.API\obj\Debug\net7.0\Notes.API.csproj.CoreCompileInputs.cache
+C:\Users\yashr\Yash\Projects\.NET Core + Angular\NoteMaker\server\Notes.API\obj\Debug\net7.0\Notes.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\yashr\Yash\Projects\.NET Core + Angular\NoteMaker\server\Notes.API\obj\Debug\net7.0\Notes.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yashr\Yash\Projects\.NET Core + Angular\NoteMaker\server\Notes.API\obj\Debug\net7.0\staticwebassets\msbuild.Notes.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\yashr\Yash\Projects\.NET Core + Angular\NoteMaker\server\Notes.API\obj\Debug\net7.0\staticwebassets\msbuild.build.Notes.API.props
+C:\Users\yashr\Yash\Projects\.NET Core + Angular\NoteMaker\server\Notes.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Notes.API.props
+C:\Users\yashr\Yash\Projects\.NET Core + Angular\NoteMaker\server\Notes.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Notes.API.props
+C:\Users\yashr\Yash\Projects\.NET Core + Angular\NoteMaker\server\Notes.API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\yashr\Yash\Projects\.NET Core + Angular\NoteMaker\server\Notes.API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\yashr\Yash\Projects\.NET Core + Angular\NoteMaker\server\Notes.API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\yashr\Yash\Projects\.NET Core + Angular\NoteMaker\server\Notes.API\obj\Debug\net7.0\scopedcss\bundle\Notes.API.styles.css
+C:\Users\yashr\Yash\Projects\.NET Core + Angular\NoteMaker\server\Notes.API\obj\Debug\net7.0\Notes.API.csproj.CopyComplete
+C:\Users\yashr\Yash\Projects\.NET Core + Angular\NoteMaker\server\Notes.API\obj\Debug\net7.0\Notes.API.dll
+C:\Users\yashr\Yash\Projects\.NET Core + Angular\NoteMaker\server\Notes.API\obj\Debug\net7.0\refint\Notes.API.dll
+C:\Users\yashr\Yash\Projects\.NET Core + Angular\NoteMaker\server\Notes.API\obj\Debug\net7.0\Notes.API.pdb
+C:\Users\yashr\Yash\Projects\.NET Core + Angular\NoteMaker\server\Notes.API\obj\Debug\net7.0\Notes.API.genruntimeconfig.cache
+C:\Users\yashr\Yash\Projects\.NET Core + Angular\NoteMaker\server\Notes.API\obj\Debug\net7.0\ref\Notes.API.dll
