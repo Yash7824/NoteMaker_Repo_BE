@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.vsidx
+/.vs/Notes/FileContentIndex/85573f51-71bf-4565-a6aa-2975d7c11206.vsidx
+/.vs/Notes/FileContentIndex/8d18e52a-dc51-4bab-83f1-92b90d934bc9.vsidx
+/.vs/Notes/FileContentIndex/e54303b0-c64d-4baf-bbb0-737a39398ae6.vsidx
+/.vs/Notes/FileContentIndex/f0404d6e-fd5f-40ba-b9e6-3bd49e8082df.vsidx
+/.vs/Notes/v17/.suo
+/Notes.API/obj/Debug/net7.0/Notes.API.assets.cache
+/Notes.API/obj/Debug/net7.0/Notes.API.GeneratedMSBuildEditorConfig.editorconfig
+/Notes.API/obj/Notes.API.csproj.nuget.dgspec.json
+/Notes.API/obj/project.assets.json
+/Notes.API/obj/project.nuget.cache
